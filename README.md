@@ -2,7 +2,7 @@
 Day1 github workshop for ece a section in kits
 ## Basic linex command
 - PWD
-- CD
+- CD path
 - ls
 - ls -a
 - mkdir foldername
